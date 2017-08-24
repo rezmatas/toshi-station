@@ -7,8 +7,8 @@
   "maintainers": [],
   "author": "",
   "engines":{
-	"node": "6.11.2",
-  },
+	"node": "6.11.2"
+  }
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chalda/DiscordBot.git"
