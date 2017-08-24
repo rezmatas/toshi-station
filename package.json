@@ -5,10 +5,10 @@
   "readme": "README.md",
   "start": "discord_bot.js",
   "maintainers": [],
-  "engines": {
+  "author": "",
+  "engines":{
 	"node": "6.11.2",
   },
-  "author": "",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chalda/DiscordBot.git"
