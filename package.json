@@ -6,7 +6,7 @@
   "start": "discord_bot.js",
   "maintainers": [],
   "engines": {
-	"node": "6.11.12"
+	"node": "6.11.11"
   },
   "author": "",
   "repository": {
